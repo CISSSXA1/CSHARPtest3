@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+<ItemGroup>
+  <Compile Include="example1.aspx.cs" />
+  <Compile Include="LDAP.cs" />
+  <Compile Include="logf.cs" />
+  <Compile Include="myApp.cs" />
+  <Compile Include="OSI.cs" />
+  <Compile Include="Program.cs" />
+  <Compile Include="PT1.cs" />
+  <Compile Include="PT2.cs" />
+  <Compile Include="PT3.cs" />
+  <Compile Include="PT4.cs" />
+  <Compile Include="sc.cs" />
+  <Compile Include="sc2.cs" />
+  <Compile Include="SQLi.cs" />
+  <Compile Include="XmlReader_Tests.cs" />
+  <Compile Include="xpath.cs" />
+  <Compile Include="XSS.cs" />
+</ItemGroup>
+</Project>
+
+
+
+</Project>
