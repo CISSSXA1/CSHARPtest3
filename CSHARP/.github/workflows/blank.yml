@@ -22,7 +22,7 @@ jobs:
 
     # Environment variables specific to your project
     env:
-      Solution_Name: your-solution-name
+      Solution_Name: CSHAPR.sln
       Configuration: Debug  # You can change this to Release if needed
 
     # Steps represent a sequence of tasks that will be executed as part of the job
