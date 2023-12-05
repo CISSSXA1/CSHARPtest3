@@ -27,7 +27,3 @@
   <Compile Include="XSS.cs" />
 </ItemGroup>
 </Project>
-
-
-
-</Project>
