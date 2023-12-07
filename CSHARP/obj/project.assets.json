@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sidra\\Documents\\.net\\CSHAPR\\CSHAPR\\CSHAPR.csproj",
+      "projectUniqueName": "C:\\Users\\sidra\\Documents\\.net\\CSHAPR\\CSHARPtest3\\CSHARP\\CSHAPR.csproj",
       "projectName": "CSHAPR",
-      "projectPath": "C:\\Users\\sidra\\Documents\\.net\\CSHAPR\\CSHAPR\\CSHAPR.csproj",
+      "projectPath": "C:\\Users\\sidra\\Documents\\.net\\CSHAPR\\CSHARPtest3\\CSHARP\\CSHAPR.csproj",
       "packagesPath": "C:\\Users\\sidra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sidra\\Documents\\.net\\CSHAPR\\CSHAPR\\obj\\",
+      "outputPath": "C:\\Users\\sidra\\Documents\\.net\\CSHAPR\\CSHARPtest3\\CSHARP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sidra\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -55,6 +55,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
