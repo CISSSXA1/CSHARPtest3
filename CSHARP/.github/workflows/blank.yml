@@ -34,7 +34,7 @@ jobs:
       # Build and test the application
       - name: Build and test
         run: |
-          dotnet build $Solution_Name --configuration $Configuration
-          dotnet test $Solution_Name --configuration $Configuration
+          dotnet build CSHAPR.sln --configuration $Configuration
+          dotnet test CSHAPR.sln --configuration $Configuration
 
       # Add more steps here for additional build, test, and deployment tasks
