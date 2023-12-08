@@ -73,8 +73,8 @@ jobs:
 
     - name: Build and test
       run: |
-          dotnet build CSHAPR.sln --configuration $Configuration
-          dotnet test CSHAPR.sln --configuration $Configuration
+          dotnet build CSHAPR.sln --configuration Release
+          dotnet test CSHAPR.sln --configuration Release
     #     echo "Run, Build Application using script"
     #     ./location_of_script_within_repo/buildscript.sh
 
